@@ -9,8 +9,6 @@ I have special interest in python
 I have total 27 repo and 7 are public ..
 
 Keep smiling 😄
-
-## Stats
 <br><br>
 <h2 align="left">Stats and Info:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsdev215&show_icons=true&locale=en&layout=compact" alt="gsdev215" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=gsdev215&show_icons=true&locale=en" alt="gsdev215" />
