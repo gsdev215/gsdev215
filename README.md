@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am gsdev aka Dev Bhattacharjee
+
+I love programming
+
+I have special interest in python 
+
+I have total 27 repo and 7 are public ..
+
+Keep smiling 😄
 <!--
 **gsdev215/gsdev215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
