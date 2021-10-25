@@ -6,7 +6,10 @@ I love programming
 
 I have special interest in python 
 
-I have total 27 repo and 7 are public ..
+Pronouns: he/him
+
+Reach me: gsdev.devloper@gmail.com
+
 
 Keep smiling 😄
 <br><br>
